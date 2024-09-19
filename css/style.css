@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: black;
+}
+
+#story-section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#button-section {
+    display: block;
+    text-align: center; 
+    margin: 0 auto;
+}
+
+nav {
+    color: rgb(183, 212, 212);
+    size: 19px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(224, 219, 219);
+    background-color: rgb(204, 72, 238);
+    text-align: center;
+    height: 10vh;
+    font-size: 20vh;
+}
+
+p {
+    color: rgb(169, 230, 236);
+    text-size-adjust: flex;
+    padding: 10px;
+}
+
+.image-container {
+    display: flex;
+}
+
+img {
+   
+
+}
+
+/* 
+imageOne
+
+imageTwo 
+*/
