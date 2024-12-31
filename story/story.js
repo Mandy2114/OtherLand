@@ -7,7 +7,7 @@ export const story = {
         choices: ["left", "right"]
     },
     left: {
-        first: "Upon a flash of life you found yourself in a cave, the dark and gray blending together. There was a low whisper around you, the voices stopped as you looked right in front of you. A young girl looked at you, as you looked around you see yourself surrounded by 12 girls around your age, you felt a sharp pain as you whip your head back to look at the girl in front of you. You see fear and terror in her eyes. The sound of heavy footsteps echoing off the walls. The shadows bounced off the sides of the walls as the shadows got closer. A barley man comes, his voice makes the girls stiffen and crowded against each other for comfort. “ The products this time are better than the last” as he holds your face in his hand. ,
+        first: "Upon a flash of life you found yourself in a cave, the dark and gray blending together. There was a low whisper around you, the voices stopped as you looked right in front of you. A young girl looked at you, as you looked around you see yourself surrounded by 12 girls around your age, you felt a sharp pain as you whip your head back to look at the girl in front of you. You see fear and terror in her eyes. The sound of heavy footsteps echoing off the walls. The shadows bounced off the sides of the walls as the shadows got closer. A barley man comes, his voice makes the girls stiffen and crowded against each other for comfort. “ The products this time are better than the last” as he holds your face in his hand." ,
         imageOne: "",
         imageTwo: "",
         second: "Your alive for now.",
